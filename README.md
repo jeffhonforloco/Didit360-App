@@ -79,4 +79,4 @@ Scalability: Supports the high demand of streaming media and real-time user inte
 Flexibility: Microservices allow independent scaling and updates for each product.
 Performance: CDN and caching ensure fast delivery of media and responses.
 Security: Environment variables, encrypted connections, and smart contract audits safeguard user data and transactions.
-Future-Readiness: Easily extensible for new features or products within the Didit360 
+Future-Readiness: Easily extensible for new features or products within the Didit360 ecosystem.
